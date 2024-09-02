@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on [CardMapr.nl](https://cardmapr.nl) and [Reminder for Flying Blue](https://rewards.flights)
+I'm currently working on [CardMapr.nl](https://cardmapr.nl) and [Reminder for Flying Blue](https://rewards.flights) | [Reminder for Flying Blue]([https://rewards.flights](https://github.com/sponsors/rewards-flights)
 
 <!--
 **Bjornftw/bjornftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
