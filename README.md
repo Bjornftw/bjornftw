@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm currently working on [CardMapr.nl](https://cardmapr.nl) and [Reminder for Flying Blue](https://rewards.flights) | [MuseoTrack](https://museotrack.nl)
+I'm currently working on 
+- 💳 [CardMapr.nl](https://cardmapr.nl)
+- ✈️ [Reminder for Flying Blue](https://rewards.flights) 
+- 🏛️ [MuseoTrack](https://museotrack.nl)
 
 <!--
 **Bjornftw/bjornftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
