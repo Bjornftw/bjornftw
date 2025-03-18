@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm currently working on 
+- ✉️ [Lettermint](https://lettermint.io) - Your EU partner for transactional emails
 - 💳 [CardMapr.nl](https://cardmapr.nl)
 - ✈️ [Reminder for Flying Blue](https://rewards.flights) 
 - 🏛️ [MuseoTrack](https://museotrack.nl)
